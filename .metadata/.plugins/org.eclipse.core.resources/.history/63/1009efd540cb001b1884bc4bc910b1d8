@@ -1,0 +1,5 @@
+package com.onlinebank.icin.resource;
+
+public class AppointmentResource {
+
+}
